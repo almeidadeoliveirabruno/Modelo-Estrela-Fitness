@@ -31,7 +31,7 @@ Colunas:
 | Black  | <img src="Imagens/image-7.png" height="35"/>  | Formatação automática do código de acordo com a PEP 8 |
 | Pandas  | <img src="Imagens/image-4.png" alt="Pandas" width="50"/>  | Manipulação dos dados  |
 | Sql Server  | <img src="Imagens/image-5.png" alt="Sql Server" width="50"/> | Banco de dados utilizado  |
-| Power BI  | <img src="Imagens/image-8.svg" alt="Power BI" width="50"/> | Para realizar o relatório  |
+| Power BI  | <img src="Imagens/image-8.svg" alt="Power BI" width="50"/> | Para testar o desempenho do CSV e modelo Estrela  |
 
 
 ## Projeto
